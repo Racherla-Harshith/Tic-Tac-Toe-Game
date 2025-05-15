@@ -28,4 +28,4 @@ A simple console-based Tic-Tac-Toe game written in Java.
 
 ## Author
 
-Created by [Your Name]
+Created by [Harshith]
